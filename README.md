@@ -26,12 +26,12 @@ Um carrossel de revisões com um botão que gera revisões aleatórias.
 [Link da pagina](https://clintonrocha98.github.io/our_reviews/)
 
 <img align="center">
-  <img src=".github/1(1).png" width="100%" />
+  <img src=".github/1 (1).png" width="100%" />
 </img>
 <img align="center">
-  <img src=".github/1(2).png" width="100%" />
+  <img src=".github/1 (2).png" width="100%" />
 </img>
 <img align="center">
-  <img src=".github/1(3).png" width="100%" />
+  <img src=".github/1 (3).png" width="100%" />
 </img>
 
